@@ -1,0 +1,6 @@
+data/raw_eeg/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
